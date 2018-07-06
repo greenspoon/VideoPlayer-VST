@@ -13,9 +13,6 @@
             file="Source/PluginEditor.cpp"/>
       <FILE id="PzquF9" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
-    <FILE id="HtuFuD" name="guiComponent.cpp" compile="1" resource="0"
-          file="Source/guiComponent.cpp"/>
-    <FILE id="UbHJih" name="guiComponent.h" compile="0" resource="0" file="Source/guiComponent.h"/>
   </MAINGROUP>
   <EXPORTFORMATS>
     <XCODE_MAC targetFolder="Builds/MacOSX">
