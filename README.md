@@ -10,4 +10,4 @@ This is what it looks like on macOS:
 I've build the VST for macOS but you could easily build it for other platforms:
 
 MAC-VST:
-[download the vst](https://github.com/greenspoon/VideoPlayer-VST/tree/master/Build%20Plugins/MacOS/VideoPlayer.component/Contents)
+[download the vst](https://github.com/greenspoon/VideoPlayer-VST/releases/tag/v1.0)
